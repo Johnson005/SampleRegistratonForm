@@ -3,9 +3,9 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.codingsuperstar</groupId>
   <artifactId>SampleReg</artifactId>
-  <packaging>Jar</packaging>
+  <packaging>War</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>SampleRegistrationForm</name>
+  <name>RegistrationForm</name>
   <url>http://maven.apache.org</url>
   <properties>
     <maven.compiler.source>1.6</maven.compiler.source>
